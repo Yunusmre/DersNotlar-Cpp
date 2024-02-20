@@ -13,31 +13,28 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Kaynak Dosyalar\dersNotlari">
-      <UniqueIdentifier>{4a6b14ba-14ad-45c1-aac3-7ec413035026}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="1_Degiskenler.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
     <ClCompile Include="6_If_else_kullanimi2.cpp">
-      <Filter>Kaynak Dosyalar\dersNotlari</Filter>
+      <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
     <ClCompile Include="5_If_Else_Kullanimi.cpp">
-      <Filter>Kaynak Dosyalar\dersNotlari</Filter>
+      <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
     <ClCompile Include="4_Cmath_Kutuphanesi_Kullanim.cpp">
-      <Filter>Kaynak Dosyalar\dersNotlari</Filter>
+      <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
     <ClCompile Include="3_Aritmatik_Islemler.cpp">
-      <Filter>Kaynak Dosyalar\dersNotlari</Filter>
+      <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
     <ClCompile Include="2_Kullanicidan_Veri_Alma.cpp">
-      <Filter>Kaynak Dosyalar\dersNotlari</Filter>
-    </ClCompile>
-    <ClCompile Include="1_Degiskenler.cpp">
-      <Filter>Kaynak Dosyalar\dersNotlari</Filter>
+      <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
     <ClCompile Include="0_HelloWorld.cpp">
-      <Filter>Kaynak Dosyalar\dersNotlari</Filter>
+      <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
