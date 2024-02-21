@@ -36,5 +36,8 @@
     <ClCompile Include="0_HelloWorld.cpp">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
+    <ClCompile Include="7_Printf_Scanf_metotlaricpp.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

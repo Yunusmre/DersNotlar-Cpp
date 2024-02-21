@@ -134,6 +134,7 @@
     <ClCompile Include="4_Cmath_Kutuphanesi_Kullanim.cpp" />
     <ClCompile Include="5_If_Else_Kullanimi.cpp" />
     <ClCompile Include="6_If_else_kullanimi2.cpp" />
+    <ClCompile Include="7_Printf_Scanf_metotlaricpp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
