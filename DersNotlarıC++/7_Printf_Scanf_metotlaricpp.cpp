@@ -1,9 +1,11 @@
 #define _CRT_SECURE_NO_WARNINGS //scanf fonksiyonu eski (c dilide) kullanýldýðý için ilk baþa bu yazdýrýlmalýdýr
 #include <iostream>
 
+// Visual studio c++ ders 7
+
 using namespace std;
 
-int main() { // c dilinden geçenler
+int main7() { // c dilinden geçenler
 	int x = 5;
 	float y = 3.2;
 
@@ -48,5 +50,5 @@ int main() { // c dilinden geçenler
 
 	%s - string ifadeler için kullanýlýr
 	*/
-	
+	return 0;
 }
