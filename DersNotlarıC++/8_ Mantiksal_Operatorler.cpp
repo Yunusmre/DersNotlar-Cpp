@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 
-// Visual studio c++ ders 7
+// Visual studio c++ ders 8
 
 using namespace std;
 int main8() {
