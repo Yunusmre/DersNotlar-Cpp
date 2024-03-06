@@ -3,7 +3,7 @@
 // Visual studio c++ ders 9
 
 using namespace std;
-int main() {
+int main10() {
 
 	int index = 0;
 
