@@ -51,5 +51,11 @@
     <ClCompile Include="b11_Do_While_Döngüsu.cpp">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
+    <ClCompile Include="b12_For_Dongusu.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="b13_For_Dongusu_Ornek_Soru.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

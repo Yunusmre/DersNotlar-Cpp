@@ -139,6 +139,8 @@
     <ClCompile Include="a8_ Mantiksal_Operatorler.cpp" />
     <ClCompile Include="a9_Sinav1.cpp" />
     <ClCompile Include="b11_Do_While_Döngüsu.cpp" />
+    <ClCompile Include="b12_For_Dongusu.cpp" />
+    <ClCompile Include="b13_For_Dongusu_Ornek_Soru.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
