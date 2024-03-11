@@ -57,5 +57,14 @@
     <ClCompile Include="b13_For_Dongusu_Ornek_Soru.cpp">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
+    <ClCompile Include="b14_Break_Continue_kullanimi.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="b15_Ic_ice_donguler_Ornek_Sorular.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="b16_Switch_Case_Kullanimi.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
