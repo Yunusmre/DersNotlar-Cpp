@@ -66,5 +66,8 @@
     <ClCompile Include="b16_Switch_Case_Kullanimi.cpp">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
+    <ClCompile Include="b17_Arrays_Dizeler_Kullanimi.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
