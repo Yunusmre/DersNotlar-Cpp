@@ -145,6 +145,8 @@
     <ClCompile Include="b15_Ic_ice_donguler_Ornek_Sorular.cpp" />
     <ClCompile Include="b16_Switch_Case_Kullanimi.cpp" />
     <ClCompile Include="b17_Arrays_Dizeler_Kullanimi.cpp" />
+    <ClCompile Include="b18_Arrays_Cok_Boyutlu_Dizler.cpp" />
+    <ClCompile Include="b19_Fonksiyonlar_ReturnKullanimi.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

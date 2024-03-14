@@ -69,5 +69,11 @@
     <ClCompile Include="b17_Arrays_Dizeler_Kullanimi.cpp">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
+    <ClCompile Include="b18_Arrays_Cok_Boyutlu_Dizler.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="b19_Fonksiyonlar_ReturnKullanimi.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
