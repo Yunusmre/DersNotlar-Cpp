@@ -8,7 +8,7 @@ using namespace std;
 int alanHesapla(int x, int y) { // alanHesapla adýnda fonksiyon oluþturdum ve int olarak x ve y deðerlerini istedim
 	int alan = x * y;
 
-	return alan; // alan deðiþkenini döndürdüm
+	return alan; // alan deðiþkenini döndürdüm.
 }
 
 void ekranaMesajYaz() { // deðer döndürmeyen fonksiyonlarda void kullanýlýr 
